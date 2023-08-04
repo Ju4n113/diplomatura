@@ -1,0 +1,34 @@
+*{
+    color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(23, 97, 20);
+}
+
+h3{
+    color: burlywood;
+}
+
+p{
+    color: rgb(250, 246, 232);
+}
+
+.parrafo {
+    color: aquamarine;
+}
+
+#tituloprincipal {
+    color: blueviolet;
+}
+
+td{
+    color: blue;
+}
+
+div > p{
+    color: yellow;
+}
